@@ -9,6 +9,7 @@ bereinigt und speichert diese automatisch und berechnet relevante Metriken.
 Die Ergebnisse werden in einem interaktiven Dashboard visualisiert.
 
 ## Projektstruktur
+
 ```
 pv-dashboard/
 ├── backend/
@@ -41,6 +42,18 @@ pv-dashboard/
 - Black / Flake8
 - Docker
 - GitHub Actions
+
+## Entwicklungsplan
+
+| Sprint | Ziel |
+|---|---|
+| Sprint 1 | Projektstruktur & Konfiguration |
+| Sprint 2 | Dashboard Mockup |
+| Sprint 3 | Backend Stub-Dateien |
+| Sprint 4 | Frontend Stub |
+| Sprint 5 | Testdateien |
+| Sprint 6 | CI/CD & Docker |
+| Sprint 7 | Dokumentation & Abgabe |
 
 ## Installation
 
