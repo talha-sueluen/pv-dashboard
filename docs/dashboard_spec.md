@@ -74,6 +74,6 @@ MOCK_PV_DATA = {
 |---|---|---|
 | `fetch_pv_data()` | `fetcher.py` | Gibt Mock-PV-Daten zurück |
 | `clean_data()` | `cleaner.py` | Bereinigt und validiert die Rohdaten |
-| `save_data()` | `storage.py` | Speichert die bereinigten Daten |
+| `save_data()` | `storage.py` | Speichert die bereinigten Daten als pd.DataFrame|
 | `calculate_metrics()` | `calculator.py` | Berechnet Wirkungsgrad und CO₂-Einsparung |
 | `show_dashboard()` | `dashboard.py` | Visualisiert die Daten mit Streamlit |
